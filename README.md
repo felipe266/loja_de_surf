@@ -1,2 +1,3 @@
 # loja_de_surf
-usando listas duplamente encadeada, filas, pilhas e pilhas de listas
+## Trabalho final de estrutura de dados
+Usando listas duplamente encadeada, filas, pilhas e pilhas de listas
